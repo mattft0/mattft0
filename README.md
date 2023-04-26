@@ -1,13 +1,16 @@
-# Bienvenue sur mon profil 👋
-- 📫 Contactez-moi sur **matteo.floirat@edu.devinci.fr**
+# Welcome to my profile 👋
+
+My name is Matteo Floirat and I'm currently in my second year of a Bachelor's degree in digital engineering at ESILV. Passionate about computer science, I am currently specializing in the field of cybersecurity. My GitHub profile contains personal projects and projects carried out during programming. Feel free to take a look to discover my skills and achievements in this exciting field!
+
+- 📫 Contact me : **matteo.floirat@edu.devinci.fr**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mattft0)](https://github.com/mattft0/github-profile-trophy)
 
-## Me retrouver
+## Find me on the socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
 
-## Languages et outils
+## Languages and tools
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/fr-fr/cpp/c-language/?view=msvc-170)
@@ -29,6 +32,6 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab&logoColor=FC6D26)](https://www.gitlab.com/)
 
 
-## Quelques stats
+## Some stats
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=mattft0&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
+[![GitHub contributions](https://github-readme-stats.vercel.app/api?username=mattt0&count_private=true&show_icons=true&theme=dark)](https://github.com/mattft0/github-readme-stats)
