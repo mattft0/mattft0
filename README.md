@@ -34,4 +34,4 @@ My name is Matteo Floirat and I'm currently in my second year of a Bachelor's de
 
 ## Some stats
 
-[![GitHub contributions](https://github-readme-stats.vercel.app/api?username=mattt0&count_private=true&show_icons=true&theme=dark)](https://github.com/mattft0/github-readme-stats)
+[![GitHub contributions](https://github-readme-stats.vercel.app/api?username=mattft0&count_private=true&show_icons=true&theme=dark)](https://github.com/mattft0/github-readme-stats)
