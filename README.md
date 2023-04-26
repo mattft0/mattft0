@@ -30,7 +30,7 @@ My name is Matteo Floirat and I'm currently in my second year of a Bachelor's de
 [![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab&logoColor=FC6D26)](https://www.gitlab.com/)
 [![Notion](https://img.shields.io/badge/Notion-000?&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Trello](https://img.shields.io/badge/Trello-000?&logo=trello&logoColor=0052CC)](https://trello.com/)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000?&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
 
 
 
@@ -39,6 +39,6 @@ My name is Matteo Floirat and I'm currently in my second year of a Bachelor's de
 
 [![GitHub contributions](https://github-readme-stats.vercel.app/api?username=mattft0&count_private=true&show_icons=true&theme=dark)](https://github.com/mattft0/github-readme-stats)
 
-###### ?
+###### Btw the best car brand
 
-[![Btw the best car brand](https://aleen42.github.io/badges/src/porsche.svg)](https://www.porsche.com/)
+[![Porsche](https://aleen42.github.io/badges/src/porsche.svg)](https://www.porsche.com/)
