@@ -10,9 +10,9 @@ My name is Matteo Floirat and I'm currently in my second year of a Bachelor's de
 
 ## Languages and tools
 
-[![Python](https://img.shields.io/badge/Python-000?&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=white)](https://learn.microsoft.com/fr-fr/cpp/c-language/?view=msvc-170)
-[![Java](https://img.shields.io/badge/Java-000?&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
+[![Python](https://img.shields.io/badge/Python-000?&logo=python&logoColor=14354C)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=00599C)](https://learn.microsoft.com/fr-fr/cpp/c-language/?view=msvc-170)
+[![Java](https://img.shields.io/badge/Java-000?&logo=openjdk&logoColor=ED8B00)](https://docs.oracle.com/en/java/)
 
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
@@ -28,8 +28,17 @@ My name is Matteo Floirat and I'm currently in my second year of a Bachelor's de
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab&logoColor=FC6D26)](https://www.gitlab.com/)
+[![Notion](https://img.shields.io/badge/Notion-000?&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Trello](https://img.shields.io/badge/Trello-000?&logo=trello&logoColor=0052CC)](https://trello.com/)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
+
+
 
 
 ## Some stats
 
 [![GitHub contributions](https://github-readme-stats.vercel.app/api?username=mattft0&count_private=true&show_icons=true&theme=dark)](https://github.com/mattft0/github-readme-stats)
+
+###### ?
+
+[![Btw the best car brand](https://aleen42.github.io/badges/src/porsche.svg)](https://www.porsche.com/)
