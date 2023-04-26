@@ -4,17 +4,15 @@ My name is Matteo Floirat and I'm currently in my second year of a Bachelor's de
 
 - 📫 Contact me : **matteo.floirat@edu.devinci.fr**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mattft0)](https://github.com/mattft0/github-profile-trophy)
-
 ## Find me on the socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
 
 ## Languages and tools
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/fr-fr/cpp/c-language/?view=msvc-170)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
+[![Python](https://img.shields.io/badge/Python-000?&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=white)](https://learn.microsoft.com/fr-fr/cpp/c-language/?view=msvc-170)
+[![Java](https://img.shields.io/badge/Java-000?&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
