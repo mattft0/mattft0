@@ -12,7 +12,7 @@ I'm **Matteo Floirat**, a Master's student in **Cybersecurity** at **Oteria**, c
 
 This GitHub profile gathers personal projects and academic work related to cybersecurity, scripting, systems, and network administration. Feel free to explore and see how I apply theory to practice.
 
-- 📫 **Contact**: [matteo.floirat@edu.devinci.fr](mailto:matteo.floirat@edu.devinci.fr)
+- 📫 **Contact**: [matteofloirat112440@gmail.com](mailto:matteofloirat112440@gmail.com)
 
 ---
 
@@ -32,7 +32,7 @@ Working on:
 
 ## 🌐 Find me online
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](hhttps://www.linkedin.com/in/floiratmatteo/)
 
 ---
 
