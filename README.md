@@ -32,7 +32,7 @@ Working on:
 
 ## 🌐 Find me online
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](hhttps://www.linkedin.com/in/floiratmatteo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/floiratmatteo/)
 
 ---
 
